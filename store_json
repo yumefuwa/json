@@ -30,7 +30,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 7,
+    "maxPointRate" : 7.0,
     "id" : "7327B074-AF79-4186-91E1-85EC49E6E71C",
     "bestPaymentMethod" : "三井住友カード",
     "imageName" : "",
@@ -45,7 +45,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 7,
+    "maxPointRate" : 7.0,
     "id" : "14440363-41CB-4722-A132-636CEA965441",
     "bestPaymentMethod" : "三井住友",
     "imageName" : "",
@@ -60,7 +60,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 7,
+    "maxPointRate" : 7.0,
     "id" : "AE1F10F3-78C1-416D-9DC4-17B4038AA68B",
     "bestPaymentMethod" : "三井住友",
     "imageName" : "",
@@ -75,7 +75,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 2,
+    "maxPointRate" : 2.0,
     "id" : "2558D5C2-A8FC-476E-A923-F0681C9F6E57",
     "bestPaymentMethod" : "WAON",
     "imageName" : "",
@@ -90,7 +90,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 7,
+    "maxPointRate" : 7.0,
     "id" : "06EC4746-8331-4F32-BA3F-A36A9253DB7F",
     "bestPaymentMethod" : "三井住友カード",
     "imageName" : "",
@@ -105,7 +105,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 7,
+    "maxPointRate" : 7.0,
     "id" : "4771FD21-C4B6-4579-B1BB-E641C9FC2D32",
     "bestPaymentMethod" : "三井住友カード",
     "imageName" : "",
@@ -120,7 +120,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 7,
+    "maxPointRate" : 7.0,
     "id" : "99A9DA19-1834-417D-82DB-7DD6EEEEC50D",
     "bestPaymentMethod" : "三井住友カード",
     "imageName" : "",
@@ -135,7 +135,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 7,
+    "maxPointRate" : 7.0,
     "id" : "234F52BA-28E2-4AC4-9D2A-FDFEE464B7A4",
     "bestPaymentMethod" : "三井住友カード",
     "imageName" : "",
@@ -150,7 +150,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 7,
+    "maxPointRate" : 7.0,
     "id" : "4F67E970-994B-4AC2-B1CB-88734D776B45",
     "bestPaymentMethod" : "三井住友カード",
     "imageName" : "",
@@ -165,7 +165,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 7,
+    "maxPointRate" : 7.0,
     "id" : "5F38E46B-02B8-4243-92F6-3D5662C3B5AB",
     "bestPaymentMethod" : "三井住友カード",
     "imageName" : "",
@@ -180,7 +180,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 7,
+    "maxPointRate" : 7.0,
     "id" : "7D72B2E8-3AAF-4F74-98B7-EEB2A94A081E",
     "bestPaymentMethod" : "三井住友カード",
     "imageName" : "",
@@ -195,7 +195,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 7,
+    "maxPointRate" : 7.0,
     "id" : "2B24E397-5718-4471-BC03-6D58F2428987",
     "bestPaymentMethod" : "三井住友カード",
     "imageName" : "",
@@ -210,7 +210,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 7,
+    "maxPointRate" : 7.0,
     "id" : "D0F45508-2333-457F-A4C5-603ACB4B5918",
     "bestPaymentMethod" : "三井住友カード",
     "imageName" : "",
@@ -225,7 +225,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 7,
+    "maxPointRate" : 7.0,
     "id" : "297A03AD-D583-40A9-AB34-84548F37E4EE",
     "bestPaymentMethod" : "三井住友カード",
     "imageName" : "",
@@ -240,7 +240,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 7,
+    "maxPointRate" : 7.0,
     "id" : "529EDD6A-3D88-4B0E-985A-5ADB99B7F893",
     "bestPaymentMethod" : "三井住友カード",
     "imageName" : "",
@@ -255,7 +255,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 7,
+    "maxPointRate" : 7.0,
     "id" : "CA9BB20E-FB65-41B5-B8D5-0F257EC305B7",
     "bestPaymentMethod" : "三井住友カード",
     "imageName" : "",
@@ -270,7 +270,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 7,
+    "maxPointRate" : 7.0,
     "id" : "0C6EA730-7173-4EEA-9A80-2861410322B7",
     "bestPaymentMethod" : "三井住友カード",
     "imageName" : "",
@@ -285,7 +285,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 7,
+    "maxPointRate" : 7.0,
     "id" : "83649185-9F7C-47CB-B3C7-180530FA5149",
     "bestPaymentMethod" : "三井住友カード",
     "imageName" : "",
@@ -300,7 +300,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 7,
+    "maxPointRate" : 7.0,
     "id" : "BD1D5F47-D211-49C1-8E4D-9ECC418E0BAC",
     "bestPaymentMethod" : "三井住友カード",
     "imageName" : "",
@@ -315,7 +315,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 7,
+    "maxPointRate" : 7.0,
     "id" : "8CF892C5-8564-4880-85FC-80EDB8A5DAC7",
     "bestPaymentMethod" : "三井住友カード",
     "imageName" : "",
@@ -330,7 +330,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 0,
+    "maxPointRate" : 0.5,
     "id" : "CAD555A6-1557-423C-8AC4-5C0FEE5C2711",
     "bestPaymentMethod" : "スターバックスカード",
     "imageName" : "",
@@ -345,7 +345,7 @@
     "couponSource" : ""
   },
   {
-    "maxPointRate" : 0,
+    "maxPointRate" : 4.5,
     "id" : "43DEE8AF-533F-48D3-8BD7-8D63371FF71B",
     "bestPaymentMethod" : "楽天ペイ",
     "imageName" : "",
@@ -459,12 +459,12 @@
     "name" : "魚民",
     "stockBenefit" : "",
     "pointBreakdown" : [
-
     ],
     "hasOfficialApp" : false,
     "couponSource" : "クラブオフ"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "82105534-dc1b-47ce-9060-d9428abdb2fe",
       "genre": "その他",
       "name": "CoCo壱番屋",
@@ -478,6 +478,7 @@
       "other": "トッピング変更可"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "4934f468-84ac-4b1a-a5af-cf30381e36c6",
       "genre": "その他",
       "name": "カインズ",
@@ -491,6 +492,7 @@
       "other": "DIY好き必見"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "38961244-c77d-41f1-b72f-ba6f880f7dad",
       "genre": "その他",
       "name": "西友",
@@ -504,6 +506,7 @@
       "other": "楽天経由でお得"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "25b7ba31-cfeb-4575-ace8-79205d1a432e",
       "genre": "その他",
       "name": "業務スーパー",
@@ -517,6 +520,7 @@
       "other": "とにかく安い"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "b754bd75-1395-49f6-83fb-20e2123eb2d3",
       "genre": "その他",
       "name": "コーナン",
@@ -529,7 +533,8 @@
       "stockBenefit": "コーナン株主優待",
       "other": "日曜大工に便利"
   },
-  {
+  {    
+      "maxPointRate" : 4.5,
       "id": "128617cc-9530-42c0-a6d0-4b61ad8f4ae9",
       "genre": "その他",
       "name": "ニトリ",
@@ -543,6 +548,7 @@
       "other": "家具一式揃う"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "e402bcbb-33ca-4db8-a94d-9be6a8eda1e7",
       "genre": "その他",
       "name": "無印良品",
@@ -556,6 +562,7 @@
       "other": "週間セールあり"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "b6ec0b9c-5921-4a6e-af02-e7c452e80547",
       "genre": "その他",
       "name": "ユニクロ",
@@ -569,6 +576,7 @@
       "other": "誕生感謝祭がお得"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "8ba0db7e-3850-4d7a-ab74-9cd3135dae7a",
       "genre": "その他",
       "name": "GU",
@@ -582,6 +590,7 @@
       "other": "試着予約OK"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "57b8a75e-147f-4110-bf07-20b365f2ac95",
       "genre": "その他",
       "name": "ABCマート",
@@ -595,6 +604,7 @@
       "other": "シューズ全般"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "78f75700-d9f5-4e2d-aea7-c72e142a296b",
       "genre": "その他",
       "name": "スポーツデポ",
@@ -608,6 +618,7 @@
       "other": "スポーツ用品全般"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "7c1a6fc8-8df9-4560-ae83-41a3ca4b6772",
       "genre": "その他",
       "name": "ドトール",
@@ -621,6 +632,7 @@
       "other": "コーヒー券あり"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "11c72655-3114-4211-88a0-bae6853d4f03",
       "genre": "その他",
       "name": "カフェ・ド・クリエ",
@@ -634,6 +646,7 @@
       "other": "静かで集中しやすい"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "0377f949-b489-4be2-9754-83ba61b3a1c9",
       "genre": "その他",
       "name": "鎌倉パスタ",
@@ -647,6 +660,7 @@
       "other": "パン食べ放題あり"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "355df313-b75d-4de6-be53-9cc053fb1e32",
       "genre": "その他",
       "name": "ポムの樹",
@@ -659,8 +673,8 @@
       "stockBenefit": "なし",
       "other": "オムライス専門店"
   },
-  
   {
+      "maxPointRate" : 4.5,
       "id": "deb569b0-3c33-4683-9554-53e211dd6931",
       "genre": "寿司・定食",
       "name": "スシロー",
@@ -674,6 +688,7 @@
       "other": "アプリ予約可"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "874e9ae8-9526-45cd-8f6c-17b1d2e882fc",
       "genre": "寿司・定食",
       "name": "くら寿司",
@@ -687,6 +702,7 @@
       "other": "ビッくらポン"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "ed3f1a40-de0e-4653-98b2-178a9b04e425",
       "genre": "寿司・定食",
       "name": "はま寿司",
@@ -700,6 +716,7 @@
       "other": "ナビ予約可"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "3a5da32f-8fd2-4901-a5c5-4832b7e159a5",
       "genre": "ファストフード",
       "name": "モスバーガー",
@@ -713,6 +730,7 @@
       "other": "ネット注文OK"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "1264ca78-9395-4c14-a431-2240ec62d005",
       "genre": "ファストフード",
       "name": "ケンタッキーフライドチキン",
@@ -726,6 +744,7 @@
       "other": "クーポン活用がお得"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "821c35b9-1541-457c-9023-5a3af260ee2a",
       "genre": "その他",
       "name": "ミスタードーナツ",
@@ -739,6 +758,7 @@
       "other": "ポイント交換可能"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "7ba13475-29fc-4e6e-aa04-f237dfcc4a7c",
       "genre": "牛丼・和食",
       "name": "やよい軒",
@@ -752,6 +772,7 @@
       "other": "ご飯おかわり自由"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "ee0e69a0-16ee-4719-b716-19e97af06901",
       "genre": "牛丼・和食",
       "name": "大戸屋",
@@ -765,6 +786,7 @@
       "other": "定食が美味しい"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "f22105df-df1b-4578-bd7a-6c947928169b",
       "genre": "牛丼・和食",
       "name": "てんや",
@@ -778,6 +800,7 @@
       "other": "天丼の日は390円"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "580ea56d-b58c-4fc3-8e58-ff81be448a3d",
       "genre": "ファミレス",
       "name": "ステーキガスト",
@@ -791,6 +814,7 @@
       "other": "ステーキ専門"
   },
   {
+      "maxPointRate" : 4.5,
       "id": "884c5f41-ffb0-4686-9c1e-b3c033ee7283",
       "genre": "ファミレス",
       "name": "魚民",
