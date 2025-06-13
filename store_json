@@ -1,6 +1,6 @@
 [
   {
-    "maxPointRate" : 2,
+    "maxPointRate" : 2.0,
     "id" : "9D98AC3D-22DE-496A-99E5-202DA7AD3E27",
     "bestPaymentMethod" : "PayPay",
     "imageName" : "seven",
@@ -15,7 +15,7 @@
     "couponSource" : "アプリ"
   },
   {
-    "maxPointRate" : 7,
+    "maxPointRate" : 7.0,
     "id" : "EAEC7CBB-5816-4256-B440-B3AD215A94F3",
     "bestPaymentMethod" : "三井住友",
     "imageName" : "",
