@@ -10,7 +10,7 @@
   "pointBreakdown": [],
   "hasOfficialApp": true,
   "couponSource": "アプリ"
-  "tag":"コンビニ"
+  "tag": ["コンビニ"]
 },  {
     "maxPointRate": 7.0,
     "id": "EAEC7CBB-5816-4256-B440-B3AD215A94F3",
