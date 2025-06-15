@@ -34,8 +34,10 @@
     "fee" :  "1,100円",
     "services" : ["ソフトドリンク", "Wi-Fi"],
     "map" : "https://maps.app.goo.gl/Ydp5sGenCjKVBULz6",
-    "url": "https://www.hokkaido-airports.com/ja/new-chitose/service/waitingroom-lounge/inter-lounge/"
-,     "review" : },{
+    "url": "https://www.hokkaido-airports.com/ja/new-chitose/service/waitingroom-lounge/inter-lounge/",
+    "review" : ""
+    },
+    {
     "id" : "04",
     "name" : "ビジネスラウンジ A Spring",
     "airport" : "函館空港",
@@ -45,7 +47,7 @@
     "fee" : "3歳以上 ¥1,050-（税込） 3歳未満 無料 (ライフカードのみ小学生以下 無料)",
     "services" : ["ソフトドリンク", "Wi-Fi"],
     "map" : "https://maps.app.goo.gl/Ydp5sGenCjKVBULz6",
-    "url" : "https://airport.ne.jp/facility/business_lounge/"
+    "url" : "https://airport.ne.jp/facility/business_lounge/",
 },
 {
     "id": "05",
@@ -57,7 +59,8 @@
     "fee": "大人1,100円（税込）、小・中学生550円（税込）※小学生未満無料",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/P5gifPwLGib1oGGUA",
-    "url": "https://www.aomori-airport.co.jp/facility/lounge"
+    "url": "https://www.aomori-airport.co.jp/facility/lounge",
+    "review" : ""
 },
 {
     "id": "06",
@@ -69,7 +72,8 @@
     "fee": "1,100 円（税込） ※障害者割引料金 500円（税込） 障害者手帳の提示で、ご本人と同伴者１名様が対象。",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/eZ5mC2kan49hTmwe6",
-    "url": "https://www.akita-airport.com/pages/service/#service8"
+    "url": "https://www.akita-airport.com/pages/service/#service8",
+    "review" : ""
 },
 {
     "id": "07",
@@ -81,7 +85,8 @@
     "fee": "1時間/1,100円（税込）",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/4GS2VfniRbG3BqhD8",
-    "url": "https://www.sendai-airport.co.jp/service/business-lounge.html"
+    "url": "https://www.sendai-airport.co.jp/service/business-lounge.html",
+    "review" : ""
 },
 {
     "id": "08",
@@ -93,7 +98,8 @@
     "fee": "小人：4～12歳のお子様 550円 3歳以下のお子様 無料",
     "services": ["アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/vAwJx5rW77R4YLDq6?g_st=com.google.maps.preview.copy",
-    "url": "https://www.iass.co.jp/lounge/narita.html#lounge1"
+    "url": "https://www.iass.co.jp/lounge/narita.html#lounge1",
+    "review" : ""
 },
 {
     "id": "09",
@@ -105,7 +111,8 @@
     "fee": "小人：4～12歳のお子様 550円 3歳以下のお子様 無料",
     "services": ["アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/korH4VrMRCxZKfzj6?g_st=com.google.maps.preview.copy",
-    "url": "https://www.iass.co.jp/lounge/narita.html#lounge2"
+    "url": "https://www.iass.co.jp/lounge/narita.html#lounge2",
+    "review" : ""
 },
 {
     "id": "10",
@@ -117,7 +124,8 @@
     "fee": "1,320円、4～12歳 660円、0～3歳 無料",
     "services": ["ソフトドリンク", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/NqNvqXS7wzEed7DA8?g_st=com.google.maps.preview.copy",
-    "url": "https://tokyo-haneda.com/service/facilities/lounge.html"
+    "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
+    "review" : ""
 },
 {
     "id": "11",
@@ -129,7 +137,8 @@
     "fee": "1,320円、4～12歳 660円、0～3歳 無料",
     "services": ["ソフトドリンク", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/1zBHp5bQ2FiXjya27?g_st=com.google.maps.preview.copy",
-    "url": "https://tokyo-haneda.com/service/facilities/lounge.html"
+    "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
+    "review" : ""
 },
 {
     "id": "12",
@@ -141,7 +150,8 @@
     "fee": "1,320円、4～12歳 660円、0～3歳 無料",
     "services": ["ソフトドリンク", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/1zBHp5bQ2FiXjya27?g_st=com.google.maps.preview.copy",
-    "url": "https://tokyo-haneda.com/service/facilities/lounge.html"
+    "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
+    "review" : ""
 },
 {
     "id": "13",
@@ -153,7 +163,8 @@
     "fee": "1,320円、4～12歳 660円、0～3歳 無料",
     "services": ["ソフトドリンク", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/uf5nrmupd7Bohann6?g_st=com.google.maps.preview.copy",
-    "url": "https://tokyo-haneda.com/service/facilities/lounge.html"
+    "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
+    "review" : ""
 },
 {
     "id": "14",
@@ -165,7 +176,8 @@
     "fee": "1,320円、4～12歳 660円、0～3歳 無料",
     "services": ["ソフトドリンク", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/Qjsa5oQXCfFB1V4x5?g_st=com.google.maps.preview.copy",
-    "url": "https://tokyo-haneda.com/service/facilities/lounge.html"
+    "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
+    "review" : ""
 },
 {
     "id": "15",
@@ -177,7 +189,8 @@
     "fee": "1,320円、4～12歳 660円、0～3歳 無料",
     "services": ["ソフトドリンク", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/5VFqg8BHGkksCroL8?g_st=com.google.maps.preview.copy",
-    "url": "https://tokyo-haneda.com/service/facilities/lounge.html"
+    "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
+    "review" : ""
 },
 {
     "id": "16",
@@ -189,7 +202,8 @@
     "fee": "1名 1,500円、 4～12歳 750円、 0～3歳 無料（有料でのご利用時はご入室3時間までのご利用となります）",
     "services": ["ソフトドリンク", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/3QR9h7VPdWSnjtt79?g_st=com.google.maps.preview.copy",
-    "url": "https://tokyo-haneda.com/service/facilities/lounge.html"
+    "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
+    "review" : ""
 },
 {
     "id": "17",
@@ -201,7 +215,8 @@
     "fee": "大人（13歳以上）1,100 円、子供（4歳以上13歳未満）550 円",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/yruA3QcagLso8T8R7?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.mtfuji-shizuokaairport.jp/facility/service/lounge/"
+    "url":  "https://www.mtfuji-shizuokaairport.jp/facility/service/lounge/",
+    "review" : ""
 },
 {
     "id": "18",
@@ -213,7 +228,8 @@
     "fee": "1,250~1,570円",
     "services": ["ソフトドリンク", "アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/XDs9tALvU7YYsSG98?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.centrair.jp/service/lounge/premium.html"
+    "url":  "https://www.centrair.jp/service/lounge/premium.html",
+    "review" : ""
 },
 {
     "id": "19",
@@ -225,7 +241,8 @@
     "fee": "お一人2時間 1,210円（税込）",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/7Xha3rvNzh59regn7?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.n-airport.co.jp/store/store_lounge/"
+    "url":  "https://www.n-airport.co.jp/store/store_lounge/",
+    "review" : ""
 },
 {
     "id": "20",
@@ -237,7 +254,8 @@
     "fee": "大人（12歳以上）1,100円",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/wpi74Nab5qHU2m5S6?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.toyama-airport.co.jp/feetup/551"
+    "url":  "https://www.toyama-airport.co.jp/feetup/551",
+    "review" : ""
 },
 {
     "id": "21",
@@ -249,7 +267,8 @@
     "fee": "大人（１２歳以上）２時間　1,100円（税込み）",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/UBKyogip3wjRcjDF7?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.komatsuairport.jp/facility/service02.html"
+    "url":  "https://www.komatsuairport.jp/facility/service02.html",
+    "review" : ""
 },
 {
     "id": "22",
@@ -261,7 +280,8 @@
     "fee": "同伴者 1名様 1,253円（税込）／3歳以上18歳未満 622円（税込）／3歳未満 無料",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/nrFqvMbhinSJsZsE6?g_st=com.google.maps.preview.copy",
-    "url": "https://www.osaka-airport.co.jp/service/business/03.html"
+    "url": "https://www.osaka-airport.co.jp/service/business/03.html",
+    "review" : ""
 },
 {
     "id" : "23",
@@ -273,7 +293,8 @@
     "fee": "",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/wCc2UTsCyHBU6ndx5?g_st=com.google.maps.preview.copy",
-    "url": "https://www.kansai-airport.or.jp/service/business/03.html"
+    "url": "https://www.kansai-airport.or.jp/service/business/03.html",
+    "review" : ""
 },
 {
     "id": "24",
@@ -285,7 +306,8 @@
     "fee": "",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/G3n1N4bBb9qfE4ns7?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.kansai-airport.or.jp/service/business/03.html"
+    "url":  "https://www.kansai-airport.or.jp/service/business/03.html",
+    "review" : ""
 },
 {
     "id": "25",
@@ -297,7 +319,8 @@
     "fee": "お一人様1,050円（消費税込）",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/V5ZD7je852bT1CiLA?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.kairport.co.jp/terminal/service-lounge"
+    "url":  "https://www.kairport.co.jp/terminal/service-lounge",
+    "review" : ""
 },
 {
     "id": "26",
@@ -309,7 +332,9 @@
     "fee": "13歳以上…1,100円（税込）、4歳以上13歳未満…550円（税込）、4歳未満…無料",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/n6ZDB1XRAsg662E19?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.okayama-airport.org/facility/2647"
+    "url":  "https://www.okayama-airport.org/facility/2647",
+    "review" : ""
+    
 },
 {
     "id": "27",
@@ -321,7 +346,8 @@
     "fee": "1,760円／人（税込）",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/gX33XrNgF67AJdKm8?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.hij.airport.jp/service/lounge.html"
+    "url":  "https://www.hij.airport.jp/service/lounge.html",
+    "review" : ""
 },
 {
     "id": "28",
@@ -333,7 +359,8 @@
     "fee": "",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/FUi3GvAbKPEYrCi37?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.yonago-air.com/shop/lounge-daisen"
+    "url":  "https://www.yonago-air.com/shop/lounge-daisen",
+    "review" : ""
 },
 {
     "id": "29",
@@ -345,7 +372,8 @@
     "fee": "■同伴　大人（12歳以上）720円、小人（3～11歳）360円、■一般　大人（12歳以上）920円、小人（3～11歳）460円",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/mpEwG1Yy85qGbqsQ7?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.izumo-airport.co.jp/airport-guide/card-lounge"
+    "url":  "https://www.izumo-airport.co.jp/airport-guide/card-lounge",
+    "review" : ""
 },
 {
     "id": "30",
@@ -357,7 +385,8 @@
     "fee": "",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/oRAQ49U8TFgNmTZZ6?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.yamaguchiube-airport.jp/shopping_other/kirara/"
+    "url":  "https://www.yamaguchiube-airport.jp/shopping_other/kirara/",
+    "review" : ""
 },
 {
     "id": "31",
@@ -369,7 +398,8 @@
     "fee": "1,100円／2時間",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/nEXmzGhsiuiaskje7?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.takamatsu-airport.com/shop/loungesanuki/"
+    "url":  "https://www.takamatsu-airport.com/shop/loungesanuki/",
+    "review" : ""
 },
 {
     "id": "32",
@@ -381,7 +411,8 @@
     "fee": "12歳以上：1,100円",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/gf7366rVeTgajgPS8?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.tokushima-airport.co.jp/lounge/"
+    "url":  "https://www.tokushima-airport.co.jp/lounge/",
+    "review" : ""
 },
 {
     "id": "33",
@@ -393,7 +424,8 @@
     "fee": "1,100円（税込)",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/TPsCkuLJh8FeBc6VA?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.matsuyama-airport.co.jp/service/service/lounge.html"
+    "url":  "https://www.matsuyama-airport.co.jp/service/service/lounge.html",
+    "review" : ""
 },
 {
     "id": "34",
@@ -405,7 +437,8 @@
     "fee": "1,100円（税込）",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/xqX7V6K5PtqfbxPf6?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.matsuyama-airport.co.jp/service/service/skylounge.html"
+    "url":  "https://www.matsuyama-airport.co.jp/service/service/skylounge.html",
+    "review" : ""
 },
 {
     "id": "35",
@@ -417,7 +450,8 @@
     "fee": "12歳以上：1,100円",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/bP9PNsvmVFarUYPA7?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.kochiap.co.jp/shop/lounge/"
+    "url":  "https://www.kochiap.co.jp/shop/lounge/",
+    "review" : ""
 },
 {
     "id": "36",
@@ -429,7 +463,8 @@
     "fee": "",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/CKfarHLM2TQw6TbQ8?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.fukuoka-airport.jp/service/card-lounge01.html"
+    "url":  "https://www.fukuoka-airport.jp/service/card-lounge01.html",
+    "review" : ""
 },
 {
     "id": "37",
@@ -441,7 +476,8 @@
     "fee": "",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/4BsYDNmczcYR7p9g9?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.fukuoka-airport.jp/service/card-lounge01-s.html"
+    "url":  "https://www.fukuoka-airport.jp/service/card-lounge01-s.html",
+    "review" : ""
 },
 {
     "id": "38",
@@ -453,7 +489,8 @@
     "fee": "",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/8geQqMPZmJojjci98?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.fukuoka-airport.jp/service/card-lounge02.html"
+    "url":  "https://www.fukuoka-airport.jp/service/card-lounge02.html",
+    "review" : ""
 },
 {
     "id": "39",
@@ -465,7 +502,8 @@
     "fee": "お一人様　・・・880円（税込）",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/gdhVdz45kX8qSYHP6?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.kitakyu-air.jp/rev-airport-guide/rev-lounge.html"
+    "url":  "https://www.kitakyu-air.jp/rev-airport-guide/rev-lounge.html",
+    "review" : ""
 },
 {
     "id": "40",
@@ -477,7 +515,8 @@
     "fee": "大人 1,100円 / 小人 550円 / 3歳未満 無料",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/5cB1PYTEXjaETWyk7?g_st=com.google.maps.preview.copy",
-    "url":  "https://saga-ab.jp/furniture_service/lounge/"
+    "url":  "https://saga-ab.jp/furniture_service/lounge/",
+    "review" : ""
 },
 {
     "id": "41",
@@ -489,7 +528,8 @@
     "fee":  "1,100円",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/fNFDb6ZUyCeJq6Cg6?g_st=com.google.maps.preview.copy",
-    "url":  "https://nagasaki-airport.jp/facility/azarea.php"
+    "url":  "https://nagasaki-airport.jp/facility/azarea.php",
+    "review" : ""
 },
 {
     "id": "42",
@@ -501,7 +541,8 @@
     "fee":  "1,100円",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/mtx9iaNZ4WVhwaHF8?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.oita-airport.jp/guide/loungekunisaki.html"
+    "url":  "https://www.oita-airport.jp/guide/loungekunisaki.html",
+    "review" : ""
 },
 {
     "id": "43",
@@ -513,7 +554,8 @@
     "fee": "ラウンジ係員へお尋ねください",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/8uihZvWbKYLUpd1k7?g_st=com.google.maps.preview.copy",
-    "url": "https://www.kumamoto-airport.co.jp/facilities/lounge/"
+    "url": "https://www.kumamoto-airport.co.jp/facilities/lounge/",
+    "review" : ""
 },
 {
     "id": "44",
@@ -525,7 +567,8 @@
     "fee": "大人 (13歳以上)¥1,100 (税込)、小人 (4歳以上13歳未満)¥550 (税込)",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/9gVZtnaNAgDtijLY9?g_st=com.google.maps.preview.copy",
-    "url":   "https://www.miyazaki-airport.co.jp/shisetsu/cardlounge"
+    "url":   "https://www.miyazaki-airport.co.jp/shisetsu/cardlounge",
+    "review" : ""
 },
 {
     "id": "45",
@@ -537,7 +580,8 @@
     "fee": "大人：1,100円（税込）小人（3歳以上12歳未満）：550円（税込）",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/dDfBuUFNu8eepXsv5?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.koj-ab.co.jp/service/skylounge-nanohana.html"
+    "url":  "https://www.koj-ab.co.jp/service/skylounge-nanohana.html".
+    "review" : ""
 },
 {
     "id": "46",
@@ -549,5 +593,6 @@
     "fee": "大人1,320円（税込）",
     "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map": "https://maps.app.goo.gl/zWQrA8vgFnkh9Vfk9",
-    "url": "https://www.naha-airport.co.jp/service/pay_area/lounge_hana/"
+    "url": "https://www.naha-airport.co.jp/service/pay_area/lounge_hana/",
+    "review" : ""
 }]
