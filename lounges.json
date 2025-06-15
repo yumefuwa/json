@@ -1,598 +1,774 @@
-[{
-    "id" : "01",
-    "name" : "LOUNGE 大雪",
-    "airport" : "旭川空港",
-    "location" : "北海道",
-    "terminal" : "国内線ターミナルビル2階 搭乗待合室",
-    "hours" : "保安検査場オープンに準ずる～最終便の最終搭乗案内まで",
-    "fee" : "一般利用不可",
-    "services" : ["ソフトドリンク", "有料アルコール", "Wi-Fi", "携帯電話充電用電源"],
-    "map" : "https://maps.app.goo.gl/UEwk4t6DTWEuB4T48",
-    "url" : "https://www.hokkaido-airports.com/ja/asahikawa/service/",
-    "review" : ""
-},
+[
     {
-    "id" : "02",
-    "name" : "スーパーラウンジ",
-    "airport" : "新千歳空港",
-    "location" : "北海道",
-    "terminal" : "国内線",
-    "hours" : "7:00〜20:30",
-    "fee" : "1,500円",
-    "services" : ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map" : "https://maps.app.goo.gl/nEyLo55u2UfdcoB9A",
-    "url" : "https://www.hokkaido-airports.com/ja/new-chitose/service/waitingroom-lounge/dmstc-lounge/",
-    "review" : ""
-},
-    {
-    "id" : "03",
-    "name" : "ノースラウンジ",
-    "airport" : "新千歳空港",
-    "location" : "北海道",
-    "terminal" : "国内線ターミナルビル2階",
-    "hours" : "7:30～21:00",
-    "fee" :  "1,100円",
-    "services" : ["ソフトドリンク", "Wi-Fi"],
-    "map" : "https://maps.app.goo.gl/Ydp5sGenCjKVBULz6",
-    "url": "https://www.hokkaido-airports.com/ja/new-chitose/service/waitingroom-lounge/inter-lounge/",
-    "review" : ""
+        "id": "01",
+        "name": "LOUNGE 大雪",
+        "airport": "旭川空港",
+        "location": "北海道",
+        "terminal": "国内線ターミナルビル2階 搭乗待合室",
+        "hours": "保安検査場オープンに準ずる～最終便の最終搭乗案内まで",
+        "fee": "一般利用不可",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi",
+            "携帯電話充電用電源"
+        ],
+        "map": "https://maps.app.goo.gl/UEwk4t6DTWEuB4T48",
+        "url": "https://www.hokkaido-airports.com/ja/asahikawa/service/",
+        "review": ""
     },
     {
-    "id" : "04",
-    "name" : "ビジネスラウンジ A Spring",
-    "airport" : "函館空港",
-    "location" : "北海道",
-    "terminal" : "国内線ターミナルビル2階",
-    "hours" : "8:00～19:30",
-    "fee" : "3歳以上 ¥1,050-（税込） 3歳未満 無料 (ライフカードのみ小学生以下 無料)",
-    "services" : ["ソフトドリンク", "Wi-Fi"],
-    "map" : "https://maps.app.goo.gl/Ydp5sGenCjKVBULz6",
-    "url" : "https://airport.ne.jp/facility/business_lounge/",
-},
-{
-    "id": "05",
-    "name": "エアポートラウンジ",
-    "airport": "青森空港",
-    "location": "青森県",
-    "terminal": "旅客ターミナルビル2F",
-    "hours": "6:00〜20:00",
-    "fee": "大人1,100円（税込）、小・中学生550円（税込）※小学生未満無料",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/P5gifPwLGib1oGGUA",
-    "url": "https://www.aomori-airport.co.jp/facility/lounge",
-    "review" : ""
-},
-{
-    "id": "06",
-    "name": "ROYALSKY LOUNGE",
-    "airport": "秋田空港",
-    "location": "秋田県",
-    "terminal": "国内線",
-    "hours": "6:50～20:20",
-    "fee": "1,100 円（税込） ※障害者割引料金 500円（税込） 障害者手帳の提示で、ご本人と同伴者１名様が対象。",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/eZ5mC2kan49hTmwe6",
-    "url": "https://www.akita-airport.com/pages/service/#service8",
-    "review" : ""
-},
-{
-    "id": "07",
-    "name": "ビジネスラウンジ EAST SIDE",
-    "airport": "仙台空港",
-    "location": "宮城県",
-    "terminal": "国内線",
-    "hours": "7:00〜20:30",
-    "fee": "1時間/1,100円（税込）",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/4GS2VfniRbG3BqhD8",
-    "url": "https://www.sendai-airport.co.jp/service/business-lounge.html",
-    "review" : ""
-},
-{
-    "id": "08",
-    "name": "IASS EXECUTIVE LOUNGE 1",
-    "airport": "成田空港",
-    "location": "千葉県",
-    "terminal": "第1ターミナル",
-    "hours": "7:00〜21:00",
-    "fee": "小人：4～12歳のお子様 550円 3歳以下のお子様 無料",
-    "services": ["アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/vAwJx5rW77R4YLDq6?g_st=com.google.maps.preview.copy",
-    "url": "https://www.iass.co.jp/lounge/narita.html#lounge1",
-    "review" : ""
-},
-{
-    "id": "09",
-    "name": "IASS EXECUTIVE LOUNGE 2",
-    "airport": "成田空港",
-    "location": "千葉県",
-    "terminal": "第2ターミナル",
-    "hours": "7:00〜21:00",
-    "fee": "小人：4～12歳のお子様 550円 3歳以下のお子様 無料",
-    "services": ["アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/korH4VrMRCxZKfzj6?g_st=com.google.maps.preview.copy",
-    "url": "https://www.iass.co.jp/lounge/narita.html#lounge2",
-    "review" : ""
-},
-{
-    "id": "10",
-    "name": "POWER LOUNGE SOUTH",
-    "airport": "羽田空港",
-    "location": "東京都",
-    "terminal": "第1ターミナル",
-    "hours": "6:00〜21:00",
-    "fee": "1,320円、4～12歳 660円、0～3歳 無料",
-    "services": ["ソフトドリンク", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/NqNvqXS7wzEed7DA8?g_st=com.google.maps.preview.copy",
-    "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
-    "review" : ""
-},
-{
-    "id": "11",
-    "name": "POWER LOUNGE NORTH",
-    "airport": "羽田空港",
-    "location": "東京都",
-    "terminal": "第1ターミナル",
-    "hours": "6:00〜20:30",
-    "fee": "1,320円、4～12歳 660円、0～3歳 無料",
-    "services": ["ソフトドリンク", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/1zBHp5bQ2FiXjya27?g_st=com.google.maps.preview.copy",
-    "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
-    "review" : ""
-},
-{
-    "id": "12",
-    "name": "POWER LOUNGE CENTRAL",
-    "airport": "羽田空港",
-    "location": "東京都",
-    "terminal": "第1ターミナル",
-    "hours": "6:00〜20:00",
-    "fee": "1,320円、4～12歳 660円、0～3歳 無料",
-    "services": ["ソフトドリンク", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/1zBHp5bQ2FiXjya27?g_st=com.google.maps.preview.copy",
-    "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
-    "review" : ""
-},
-{
-    "id": "13",
-    "name": "POWER LOUNGE NORTH",
-    "airport": "羽田空港",
-    "location": "東京都",
-    "terminal": "第2ターミナル",
-    "hours": "6:00〜21:30",
-    "fee": "1,320円、4～12歳 660円、0～3歳 無料",
-    "services": ["ソフトドリンク", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/uf5nrmupd7Bohann6?g_st=com.google.maps.preview.copy",
-    "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
-    "review" : ""
-},
-{
-    "id": "14",
-    "name": "エアポートラウンジ(南)",
-    "airport": "羽田空港",
-    "location": "東京都",
-    "terminal": "第2ターミナル",
-    "hours": "6:00〜21:30",
-    "fee": "1,320円、4～12歳 660円、0～3歳 無料",
-    "services": ["ソフトドリンク", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/Qjsa5oQXCfFB1V4x5?g_st=com.google.maps.preview.copy",
-    "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
-    "review" : ""
-},
-{
-    "id": "15",
-    "name": "POWER LOUNGE CENTRAL",
-    "airport": "羽田空港",
-    "location": "東京都",
-    "terminal": "第2ターミナル",
-    "hours": "6:00〜20:00",
-    "fee": "1,320円、4～12歳 660円、0～3歳 無料",
-    "services": ["ソフトドリンク", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/5VFqg8BHGkksCroL8?g_st=com.google.maps.preview.copy",
-    "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
-    "review" : ""
-},
-{
-    "id": "16",
-    "name": "SKY LOUNGE",
-    "airport": "羽田空港",
-    "location": "東京都",
-    "terminal": "第3ターミナル",
-    "hours": "24時間営業",
-    "fee": "1名 1,500円、 4～12歳 750円、 0～3歳 無料（有料でのご利用時はご入室3時間までのご利用となります）",
-    "services": ["ソフトドリンク", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/3QR9h7VPdWSnjtt79?g_st=com.google.maps.preview.copy",
-    "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
-    "review" : ""
-},
-{
-    "id": "17",
-    "name": "YOUR LOUNGE",
-    "airport": "富士山静岡空港",
-    "location": "静岡県",
-    "terminal": "ターミナルビル2階",
-    "hours": "6:40～18:30",
-    "fee": "大人（13歳以上）1,100 円、子供（4歳以上13歳未満）550 円",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/yruA3QcagLso8T8R7?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.mtfuji-shizuokaairport.jp/facility/service/lounge/",
-    "review" : ""
-},
-{
-    "id": "18",
-    "name": "プレミアムラウンジ セントレア",
-    "airport": "中部国際空港",
-    "location": "愛知県",
-    "terminal": "第1ターミナル",
-    "hours": "6:45～20:45（年中無休）",
-    "fee": "1,250~1,570円",
-    "services": ["ソフトドリンク", "アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/XDs9tALvU7YYsSG98?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.centrair.jp/service/lounge/premium.html",
-    "review" : ""
-},
-{
-    "id": "19",
-    "name": "エアリウムラウンジ",
-    "airport": "新潟空港",
-    "location": "新潟県",
-    "terminal": "国内線ターミナル",
-    "hours": "7：10～19：00(最終受付18：40) ※GW期間(2025/4/26～2025/5/6) 7：10～19：40(最終受付19：20)",
-    "fee": "お一人2時間 1,210円（税込）",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/7Xha3rvNzh59regn7?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.n-airport.co.jp/store/store_lounge/",
-    "review" : ""
-},
-{
-    "id": "20",
-    "name": "ラウンジらいちょう",
-    "airport": "富山空港",
-    "location": "富山県",
-    "terminal": "国内線ターミナル",
-    "hours": "6:10～7:05･8:45～17:45 ※運航状況により変更します。",
-    "fee": "大人（12歳以上）1,100円",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/wpi74Nab5qHU2m5S6?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.toyama-airport.co.jp/feetup/551",
-    "review" : ""
-},
-{
-    "id": "21",
-    "name": "スカイラウンジ白山",
-    "airport": "小松空港",
-    "location": "石川県",
-    "terminal": "国内線ターミナル",
-    "hours": "7:00〜19:30",
-    "fee": "大人（１２歳以上）２時間　1,100円（税込み）",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/UBKyogip3wjRcjDF7?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.komatsuairport.jp/facility/service02.html",
-    "review" : ""
-},
-{
-    "id": "22",
-    "name": "ラウンジオーサカ",
-    "airport": "伊丹空港",
-    "location": "国内線ターミナル",
-    "terminal": "国内線ターミナル",
-    "hours": "6:30～20:00（受付締切 19:45） ",
-    "fee": "同伴者 1名様 1,253円（税込）／3歳以上18歳未満 622円（税込）／3歳未満 無料",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/nrFqvMbhinSJsZsE6?g_st=com.google.maps.preview.copy",
-    "url": "https://www.osaka-airport.co.jp/service/business/03.html",
-    "review" : ""
-},
-{
-    "id" : "23",
-    "name": "六甲・アネックス六甲・金剛",
-    "airport": "関西国際空港",
-    "location": "大阪府",
-    "terminal": "ターミナル",
-    "hours": "ホームページ参照",
-    "fee": "",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/wCc2UTsCyHBU6ndx5?g_st=com.google.maps.preview.copy",
-    "url": "https://www.kansai-airport.or.jp/service/business/03.html",
-    "review" : ""
-},
-{
-    "id": "24",
-    "name": "NODOKA",
-    "airport": "関西国際空港",
-    "location": "大阪府",
-    "terminal": "ターミナル",
-    "hours": "24時間営業",
-    "fee": "",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/G3n1N4bBb9qfE4ns7?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.kansai-airport.or.jp/service/business/03.html",
-    "review" : ""
-},
-{
-    "id": "25",
-    "name": "ラウンジ神戸",
-    "airport": "神戸空港",
-    "location": "兵庫県",
-    "terminal": "国内線ターミナル",
-    "hours": "6:15～最終便出発時間の10分前まで",
-    "fee": "お一人様1,050円（消費税込）",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/V5ZD7je852bT1CiLA?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.kairport.co.jp/terminal/service-lounge",
-    "review" : ""
-},
-{
-    "id": "26",
-    "name": "ラウンジマスカット",
-    "airport": "岡山桃太郎空港",
-    "location": "岡山県",
-    "terminal": "国内線ターミナル",
-    "hours": "7:15〜19:45",
-    "fee": "13歳以上…1,100円（税込）、4歳以上13歳未満…550円（税込）、4歳未満…無料",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/n6ZDB1XRAsg662E19?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.okayama-airport.org/facility/2647",
-    "review" : ""
-    
-},
-{
-    "id": "27",
-    "name": "YAMANAMI VILLA",
-    "airport": "広島空港",
-    "location": "広島県",
-    "terminal": "国内線ターミナル",
-    "hours": "6:45 ～ 20:40",
-    "fee": "1,760円／人（税込）",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/gX33XrNgF67AJdKm8?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.hij.airport.jp/service/lounge.html",
-    "review" : ""
-},
-{
-    "id": "28",
-    "name": "ラウンジDAISEN ",
-    "airport": "米子空港",
-    "location": "鳥取県",
-    "terminal": "国内線ターミナル",
-    "hours": "",
-    "fee": "",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/FUi3GvAbKPEYrCi37?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.yonago-air.com/shop/lounge-daisen",
-    "review" : ""
-},
-{
-    "id": "29",
-    "name": "エアポートラウンジ",
-    "airport": "出雲空港",
-    "location": "島根県",
-    "terminal": "国内線ターミナル",
-    "hours": "始発便出発1時間前～最終便出発(定刻)15分前",
-    "fee": "■同伴　大人（12歳以上）720円、小人（3～11歳）360円、■一般　大人（12歳以上）920円、小人（3～11歳）460円",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/mpEwG1Yy85qGbqsQ7?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.izumo-airport.co.jp/airport-guide/card-lounge",
-    "review" : ""
-},
-{
-    "id": "30",
-    "name": "ラウンジきらら",
-    "airport": "山口宇部空港",
-    "location": "山口県",
-    "terminal": "国内線ターミナル",
-    "hours": "",
-    "fee": "",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/oRAQ49U8TFgNmTZZ6?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.yamaguchiube-airport.jp/shopping_other/kirara/",
-    "review" : ""
-},
-{
-    "id": "31",
-    "name": "ラウンジ讃岐",
-    "airport": "高松空港",
-    "location": "香川県",
-    "terminal": "国内線ターミナル",
-    "hours": "6:40～20:00（年中無休）",
-    "fee": "1,100円／2時間",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/nEXmzGhsiuiaskje7?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.takamatsu-airport.com/shop/loungesanuki/",
-    "review" : ""
-},
-{
-    "id": "32",
-    "name": "エアポートラウンジヴォルティス",
-    "airport": "徳島空港",
-    "location": "徳島県",
-    "terminal": "国内線ターミナル",
-    "hours": "始発便出発時刻の1時間前～最終便最終搭乗案内まで",
-    "fee": "12歳以上：1,100円",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/gf7366rVeTgajgPS8?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.tokushima-airport.co.jp/lounge/",
-    "review" : ""
-},
-{
-    "id": "33",
-    "name": "ビジネスラウンジ",
-    "airport": "松山空港",
-    "location": "愛媛県",
-    "terminal": "国内線ターミナル",
-    "hours": "06：30～19：30（最終受付19：15）",
-    "fee": "1,100円（税込)",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/TPsCkuLJh8FeBc6VA?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.matsuyama-airport.co.jp/service/service/lounge.html",
-    "review" : ""
-},
-{
-    "id": "34",
-    "name": "スカイラウンジ",
-    "airport": "松山空港",
-    "location": "愛媛県",
-    "terminal": "国内線ターミナル",
-    "hours": "08：30～19：30（最終受付19：15）",
-    "fee": "1,100円（税込）",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/xqX7V6K5PtqfbxPf6?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.matsuyama-airport.co.jp/service/service/skylounge.html",
-    "review" : ""
-},
-{
-    "id": "35",
-    "name": "ブルースカイラウンジ",
-    "airport": "高知空港",
-    "location": "高知県",
-    "terminal": "国内線ターミナル",
-    "hours": "6:15～19:40",
-    "fee": "12歳以上：1,100円",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/bP9PNsvmVFarUYPA7?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.kochiap.co.jp/shop/lounge/",
-    "review" : ""
-},
-{
-    "id": "36",
-    "name": "ラウンジTIME ノース",
-    "airport": "福岡空港",
-    "location": "福岡県",
-    "terminal": "国内線ターミナル",
-    "hours": "06:00～20:30　年中無休",
-    "fee": "",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/CKfarHLM2TQw6TbQ8?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.fukuoka-airport.jp/service/card-lounge01.html",
-    "review" : ""
-},
-{
-    "id": "37",
-    "name": "ラウンジTIME サウス",
-    "airport": "福岡空港",
-    "location": "福岡県",
-    "terminal": "国内線ターミナル",
-    "hours": "06:00～21:00　年中無休",
-    "fee": "",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/4BsYDNmczcYR7p9g9?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.fukuoka-airport.jp/service/card-lounge01-s.html",
-    "review" : ""
-},
-{
-    "id": "38",
-    "name": "ラウンジTIME インターナショナル",
-    "airport": "福岡空港",
-    "location": "福岡県",
-    "terminal": "国際線ターミナル",
-    "hours": "7:00～21:00　年中無休",
-    "fee": "",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/8geQqMPZmJojjci98?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.fukuoka-airport.jp/service/card-lounge02.html",
-    "review" : ""
-},
-{
-    "id": "39",
-    "name": "ラウンジひまわり",
-    "airport": "北九州空港",
-    "location": "福岡県",
-    "terminal": "国内線ターミナル",
-    "hours": "07：00～21：00",
-    "fee": "お一人様　・・・880円（税込）",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/gdhVdz45kX8qSYHP6?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.kitakyu-air.jp/rev-airport-guide/rev-lounge.html",
-    "review" : ""
-},
-{
-    "id": "40",
-    "name": "Premium Loungeさがのがら。",
-    "airport": "佐賀空港",
-    "location": "佐賀県",
-    "terminal": "国内線ターミナル",
-    "hours": "8：30 ～ 佐賀空港国内線最終出発便搭乗案内まで（年中無休）",
-    "fee": "大人 1,100円 / 小人 550円 / 3歳未満 無料",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/5cB1PYTEXjaETWyk7?g_st=com.google.maps.preview.copy",
-    "url":  "https://saga-ab.jp/furniture_service/lounge/",
-    "review" : ""
-},
-{
-    "id": "41",
-    "name": "ビジネスラウンジアザレア",
-    "airport": "長崎空港",
-    "location": "長崎県",
-    "terminal": "国内線ターミナル",
-    "hours": "6：45～20：40",
-    "fee":  "1,100円",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/fNFDb6ZUyCeJq6Cg6?g_st=com.google.maps.preview.copy",
-    "url":  "https://nagasaki-airport.jp/facility/azarea.php",
-    "review" : ""
-},
-{
-    "id": "42",
-    "name": "ラウンジくにさき",
-    "airport": "大分空港",
-    "location": "大分県",
-    "terminal": "国内線ターミナル",
-    "hours": "6時40分〜最終便出発の15分前",
-    "fee":  "1,100円",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/mtx9iaNZ4WVhwaHF8?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.oita-airport.jp/guide/loungekunisaki.html",
-    "review" : ""
-},
-{
-    "id": "43",
-    "name": "ASO",
-    "airport": "熊本空港",
-    "location": "熊本県",
-    "terminal": "国内線ターミナル",
-    "hours": "6:30〜最終便出発まで",
-    "fee": "ラウンジ係員へお尋ねください",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/8uihZvWbKYLUpd1k7?g_st=com.google.maps.preview.copy",
-    "url": "https://www.kumamoto-airport.co.jp/facilities/lounge/",
-    "review" : ""
-},
-{
-    "id": "44",
-    "name": "ブーゲンラウンジひなた",
-    "airport": "宮崎空港",
-    "location": "宮崎県",
-    "terminal": "第1ターミナル",
-    "hours": "07:00 - 20:00",
-    "fee": "大人 (13歳以上)¥1,100 (税込)、小人 (4歳以上13歳未満)¥550 (税込)",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/9gVZtnaNAgDtijLY9?g_st=com.google.maps.preview.copy",
-    "url":   "https://www.miyazaki-airport.co.jp/shisetsu/cardlounge",
-    "review" : ""
-},
-{
-    "id": "45",
-    "name": "スカイラウンジ菜の花",
-    "airport": "鹿児島空港",
-    "location": "鹿児島県",
-    "terminal": "国内線ターミナル",
-    "hours": "7:00〜20:00（年中無休）※利用時間制限なし",
-    "fee": "大人：1,100円（税込）小人（3歳以上12歳未満）：550円（税込）",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/dDfBuUFNu8eepXsv5?g_st=com.google.maps.preview.copy",
-    "url":  "https://www.koj-ab.co.jp/service/skylounge-nanohana.html".
-    "review" : ""
-},
-{
-    "id": "46",
-    "name": "ラウンジ華〜hana〜",
-    "airport": "那覇空港",
-    "location": "沖縄県",
-    "terminal": "国内線ターミナル",
-    "hours": "8:00〜20:00",
-    "fee": "大人1,320円（税込）",
-    "services": ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
-    "map": "https://maps.app.goo.gl/zWQrA8vgFnkh9Vfk9",
-    "url": "https://www.naha-airport.co.jp/service/pay_area/lounge_hana/",
-    "review" : ""
-}]
+        "id": "02",
+        "name": "スーパーラウンジ",
+        "airport": "新千歳空港",
+        "location": "北海道",
+        "terminal": "国内線",
+        "hours": "7:00〜20:30",
+        "fee": "1,500円",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/nEyLo55u2UfdcoB9A",
+        "url": "https://www.hokkaido-airports.com/ja/new-chitose/service/waitingroom-lounge/dmstc-lounge/",
+        "review": ""
+    },
+    {
+        "id": "03",
+        "name": "ノースラウンジ",
+        "airport": "新千歳空港",
+        "location": "北海道",
+        "terminal": "国内線ターミナルビル2階",
+        "hours": "7:30～21:00",
+        "fee": "1,100円",
+        "services": [
+            "ソフトドリンク",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/Ydp5sGenCjKVBULz6",
+        "url": "https://www.hokkaido-airports.com/ja/new-chitose/service/waitingroom-lounge/inter-lounge/",
+        "review": ""
+    },
+    {
+        "id": "04",
+        "name": "ビジネスラウンジ A Spring",
+        "airport": "函館空港",
+        "location": "北海道",
+        "terminal": "国内線ターミナルビル2階",
+        "hours": "8:00～19:30",
+        "fee": "3歳以上 ¥1,050-（税込） 3歳未満 無料 (ライフカードのみ小学生以下 無料)",
+        "services": [
+            "ソフトドリンク",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/Ydp5sGenCjKVBULz6",
+        "url": "https://airport.ne.jp/facility/business_lounge/",
+        "review": ""
+    },
+    {
+        "id": "05",
+        "name": "エアポートラウンジ",
+        "airport": "青森空港",
+        "location": "青森県",
+        "terminal": "旅客ターミナルビル2F",
+        "hours": "6:00〜20:00",
+        "fee": "大人1,100円（税込）、小・中学生550円（税込）※小学生未満無料",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/P5gifPwLGib1oGGUA",
+        "url": "https://www.aomori-airport.co.jp/facility/lounge",
+        "review": ""
+    },
+    {
+        "id": "06",
+        "name": "ROYALSKY LOUNGE",
+        "airport": "秋田空港",
+        "location": "秋田県",
+        "terminal": "国内線",
+        "hours": "6:50～20:20",
+        "fee": "1,100 円（税込） ※障害者割引料金 500円（税込） 障害者手帳の提示で、ご本人と同伴者１名様が対象。",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/eZ5mC2kan49hTmwe6",
+        "url": "https://www.akita-airport.com/pages/service/#service8",
+        "review": ""
+    },
+    {
+        "id": "07",
+        "name": "ビジネスラウンジ EAST SIDE",
+        "airport": "仙台空港",
+        "location": "宮城県",
+        "terminal": "国内線",
+        "hours": "7:00〜20:30",
+        "fee": "1時間/1,100円（税込）",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/4GS2VfniRbG3BqhD8",
+        "url": "https://www.sendai-airport.co.jp/service/business-lounge.html",
+        "review": ""
+    },
+    {
+        "id": "08",
+        "name": "IASS EXECUTIVE LOUNGE 1",
+        "airport": "成田空港",
+        "location": "千葉県",
+        "terminal": "第1ターミナル",
+        "hours": "7:00〜21:00",
+        "fee": "小人：4～12歳のお子様 550円 3歳以下のお子様 無料",
+        "services": [
+            "アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/vAwJx5rW77R4YLDq6?g_st=com.google.maps.preview.copy",
+        "url": "https://www.iass.co.jp/lounge/narita.html#lounge1",
+        "review": ""
+    },
+    {
+        "id": "09",
+        "name": "IASS EXECUTIVE LOUNGE 2",
+        "airport": "成田空港",
+        "location": "千葉県",
+        "terminal": "第2ターミナル",
+        "hours": "7:00〜21:00",
+        "fee": "小人：4～12歳のお子様 550円 3歳以下のお子様 無料",
+        "services": [
+            "アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/korH4VrMRCxZKfzj6?g_st=com.google.maps.preview.copy",
+        "url": "https://www.iass.co.jp/lounge/narita.html#lounge2",
+        "review": ""
+    },
+    {
+        "id": "10",
+        "name": "POWER LOUNGE SOUTH",
+        "airport": "羽田空港",
+        "location": "東京都",
+        "terminal": "第1ターミナル",
+        "hours": "6:00〜21:00",
+        "fee": "1,320円、4～12歳 660円、0～3歳 無料",
+        "services": [
+            "ソフトドリンク",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/NqNvqXS7wzEed7DA8?g_st=com.google.maps.preview.copy",
+        "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
+        "review": ""
+    },
+    {
+        "id": "11",
+        "name": "POWER LOUNGE NORTH",
+        "airport": "羽田空港",
+        "location": "東京都",
+        "terminal": "第1ターミナル",
+        "hours": "6:00〜20:30",
+        "fee": "1,320円、4～12歳 660円、0～3歳 無料",
+        "services": [
+            "ソフトドリンク",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/1zBHp5bQ2FiXjya27?g_st=com.google.maps.preview.copy",
+        "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
+        "review": ""
+    },
+    {
+        "id": "12",
+        "name": "POWER LOUNGE CENTRAL",
+        "airport": "羽田空港",
+        "location": "東京都",
+        "terminal": "第1ターミナル",
+        "hours": "6:00〜20:00",
+        "fee": "1,320円、4～12歳 660円、0～3歳 無料",
+        "services": [
+            "ソフトドリンク",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/1zBHp5bQ2FiXjya27?g_st=com.google.maps.preview.copy",
+        "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
+        "review": ""
+    },
+    {
+        "id": "13",
+        "name": "POWER LOUNGE NORTH",
+        "airport": "羽田空港",
+        "location": "東京都",
+        "terminal": "第2ターミナル",
+        "hours": "6:00〜21:30",
+        "fee": "1,320円、4～12歳 660円、0～3歳 無料",
+        "services": [
+            "ソフトドリンク",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/uf5nrmupd7Bohann6?g_st=com.google.maps.preview.copy",
+        "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
+        "review": ""
+    },
+    {
+        "id": "14",
+        "name": "エアポートラウンジ(南)",
+        "airport": "羽田空港",
+        "location": "東京都",
+        "terminal": "第2ターミナル",
+        "hours": "6:00〜21:30",
+        "fee": "1,320円、4～12歳 660円、0～3歳 無料",
+        "services": [
+            "ソフトドリンク",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/Qjsa5oQXCfFB1V4x5?g_st=com.google.maps.preview.copy",
+        "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
+        "review": ""
+    },
+    {
+        "id": "15",
+        "name": "POWER LOUNGE CENTRAL",
+        "airport": "羽田空港",
+        "location": "東京都",
+        "terminal": "第2ターミナル",
+        "hours": "6:00〜20:00",
+        "fee": "1,320円、4～12歳 660円、0～3歳 無料",
+        "services": [
+            "ソフトドリンク",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/5VFqg8BHGkksCroL8?g_st=com.google.maps.preview.copy",
+        "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
+        "review": ""
+    },
+    {
+        "id": "16",
+        "name": "SKY LOUNGE",
+        "airport": "羽田空港",
+        "location": "東京都",
+        "terminal": "第3ターミナル",
+        "hours": "24時間営業",
+        "fee": "1名 1,500円、 4～12歳 750円、 0～3歳 無料（有料でのご利用時はご入室3時間までのご利用となります）",
+        "services": [
+            "ソフトドリンク",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/3QR9h7VPdWSnjtt79?g_st=com.google.maps.preview.copy",
+        "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
+        "review": ""
+    },
+    {
+        "id": "17",
+        "name": "YOUR LOUNGE",
+        "airport": "富士山静岡空港",
+        "location": "静岡県",
+        "terminal": "ターミナルビル2階",
+        "hours": "6:40～18:30",
+        "fee": "大人（13歳以上）1,100 円、子供（4歳以上13歳未満）550 円",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/yruA3QcagLso8T8R7?g_st=com.google.maps.preview.copy",
+        "url": "https://www.mtfuji-shizuokaairport.jp/facility/service/lounge/",
+        "review": ""
+    },
+    {
+        "id": "18",
+        "name": "プレミアムラウンジ セントレア",
+        "airport": "中部国際空港",
+        "location": "愛知県",
+        "terminal": "第1ターミナル",
+        "hours": "6:45～20:45（年中無休）",
+        "fee": "1,250~1,570円",
+        "services": [
+            "ソフトドリンク",
+            "アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/XDs9tALvU7YYsSG98?g_st=com.google.maps.preview.copy",
+        "url": "https://www.centrair.jp/service/lounge/premium.html",
+        "review": ""
+    },
+    {
+        "id": "19",
+        "name": "エアリウムラウンジ",
+        "airport": "新潟空港",
+        "location": "新潟県",
+        "terminal": "国内線ターミナル",
+        "hours": "7：10～19：00(最終受付18：40) ※GW期間(2025/4/26～2025/5/6) 7：10～19：40(最終受付19：20)",
+        "fee": "お一人2時間 1,210円（税込）",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/7Xha3rvNzh59regn7?g_st=com.google.maps.preview.copy",
+        "url": "https://www.n-airport.co.jp/store/store_lounge/",
+        "review": ""
+    },
+    {
+        "id": "20",
+        "name": "ラウンジらいちょう",
+        "airport": "富山空港",
+        "location": "富山県",
+        "terminal": "国内線ターミナル",
+        "hours": "6:10～7:05･8:45～17:45 ※運航状況により変更します。",
+        "fee": "大人（12歳以上）1,100円",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/wpi74Nab5qHU2m5S6?g_st=com.google.maps.preview.copy",
+        "url": "https://www.toyama-airport.co.jp/feetup/551",
+        "review": ""
+    },
+    {
+        "id": "21",
+        "name": "スカイラウンジ白山",
+        "airport": "小松空港",
+        "location": "石川県",
+        "terminal": "国内線ターミナル",
+        "hours": "7:00〜19:30",
+        "fee": "大人（１２歳以上）２時間　1,100円（税込み）",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/UBKyogip3wjRcjDF7?g_st=com.google.maps.preview.copy",
+        "url": "https://www.komatsuairport.jp/facility/service02.html",
+        "review": ""
+    },
+    {
+        "id": "22",
+        "name": "ラウンジオーサカ",
+        "airport": "伊丹空港",
+        "location": "国内線ターミナル",
+        "terminal": "国内線ターミナル",
+        "hours": "6:30～20:00（受付締切 19:45） ",
+        "fee": "同伴者 1名様 1,253円（税込）／3歳以上18歳未満 622円（税込）／3歳未満 無料",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/nrFqvMbhinSJsZsE6?g_st=com.google.maps.preview.copy",
+        "url": "https://www.osaka-airport.co.jp/service/business/03.html",
+        "review": ""
+    },
+    {
+        "id": "23",
+        "name": "六甲・アネックス六甲・金剛",
+        "airport": "関西国際空港",
+        "location": "大阪府",
+        "terminal": "ターミナル",
+        "hours": "ホームページ参照",
+        "fee": "",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/wCc2UTsCyHBU6ndx5?g_st=com.google.maps.preview.copy",
+        "url": "https://www.kansai-airport.or.jp/service/business/03.html",
+        "review": ""
+    },
+    {
+        "id": "24",
+        "name": "NODOKA",
+        "airport": "関西国際空港",
+        "location": "大阪府",
+        "terminal": "ターミナル",
+        "hours": "24時間営業",
+        "fee": "",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/G3n1N4bBb9qfE4ns7?g_st=com.google.maps.preview.copy",
+        "url": "https://www.kansai-airport.or.jp/service/business/03.html",
+        "review": ""
+    },
+    {
+        "id": "25",
+        "name": "ラウンジ神戸",
+        "airport": "神戸空港",
+        "location": "兵庫県",
+        "terminal": "国内線ターミナル",
+        "hours": "6:15～最終便出発時間の10分前まで",
+        "fee": "お一人様1,050円（消費税込）",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/V5ZD7je852bT1CiLA?g_st=com.google.maps.preview.copy",
+        "url": "https://www.kairport.co.jp/terminal/service-lounge",
+        "review": ""
+    },
+    {
+        "id": "26",
+        "name": "ラウンジマスカット",
+        "airport": "岡山桃太郎空港",
+        "location": "岡山県",
+        "terminal": "国内線ターミナル",
+        "hours": "7:15〜19:45",
+        "fee": "13歳以上…1,100円（税込）、4歳以上13歳未満…550円（税込）、4歳未満…無料",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/n6ZDB1XRAsg662E19?g_st=com.google.maps.preview.copy",
+        "url": "https://www.okayama-airport.org/facility/2647",
+        "review": ""
+    },
+    {
+        "id": "27",
+        "name": "YAMANAMI VILLA",
+        "airport": "広島空港",
+        "location": "広島県",
+        "terminal": "国内線ターミナル",
+        "hours": "6:45 ～ 20:40",
+        "fee": "1,760円／人（税込）",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/gX33XrNgF67AJdKm8?g_st=com.google.maps.preview.copy",
+        "url": "https://www.hij.airport.jp/service/lounge.html",
+        "review": ""
+    },
+    {
+        "id": "28",
+        "name": "ラウンジDAISEN ",
+        "airport": "米子空港",
+        "location": "鳥取県",
+        "terminal": "国内線ターミナル",
+        "hours": "",
+        "fee": "",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/FUi3GvAbKPEYrCi37?g_st=com.google.maps.preview.copy",
+        "url": "https://www.yonago-air.com/shop/lounge-daisen",
+        "review": ""
+    },
+    {
+        "id": "29",
+        "name": "エアポートラウンジ",
+        "airport": "出雲空港",
+        "location": "島根県",
+        "terminal": "国内線ターミナル",
+        "hours": "始発便出発1時間前～最終便出発(定刻)15分前",
+        "fee": "■同伴　大人（12歳以上）720円、小人（3～11歳）360円、■一般　大人（12歳以上）920円、小人（3～11歳）460円",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/mpEwG1Yy85qGbqsQ7?g_st=com.google.maps.preview.copy",
+        "url": "https://www.izumo-airport.co.jp/airport-guide/card-lounge",
+        "review": ""
+    },
+    {
+        "id": "30",
+        "name": "ラウンジきらら",
+        "airport": "山口宇部空港",
+        "location": "山口県",
+        "terminal": "国内線ターミナル",
+        "hours": "",
+        "fee": "",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/oRAQ49U8TFgNmTZZ6?g_st=com.google.maps.preview.copy",
+        "url": "https://www.yamaguchiube-airport.jp/shopping_other/kirara/",
+        "review": ""
+    },
+    {
+        "id": "31",
+        "name": "ラウンジ讃岐",
+        "airport": "高松空港",
+        "location": "香川県",
+        "terminal": "国内線ターミナル",
+        "hours": "6:40～20:00（年中無休）",
+        "fee": "1,100円／2時間",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/nEXmzGhsiuiaskje7?g_st=com.google.maps.preview.copy",
+        "url": "https://www.takamatsu-airport.com/shop/loungesanuki/",
+        "review": ""
+    },
+    {
+        "id": "32",
+        "name": "エアポートラウンジヴォルティス",
+        "airport": "徳島空港",
+        "location": "徳島県",
+        "terminal": "国内線ターミナル",
+        "hours": "始発便出発時刻の1時間前～最終便最終搭乗案内まで",
+        "fee": "12歳以上：1,100円",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/gf7366rVeTgajgPS8?g_st=com.google.maps.preview.copy",
+        "url": "https://www.tokushima-airport.co.jp/lounge/",
+        "review": ""
+    },
+    {
+        "id": "33",
+        "name": "ビジネスラウンジ",
+        "airport": "松山空港",
+        "location": "愛媛県",
+        "terminal": "国内線ターミナル",
+        "hours": "06：30～19：30（最終受付19：15）",
+        "fee": "1,100円（税込)",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/TPsCkuLJh8FeBc6VA?g_st=com.google.maps.preview.copy",
+        "url": "https://www.matsuyama-airport.co.jp/service/service/lounge.html",
+        "review": ""
+    },
+    {
+        "id": "34",
+        "name": "スカイラウンジ",
+        "airport": "松山空港",
+        "location": "愛媛県",
+        "terminal": "国内線ターミナル",
+        "hours": "08：30～19：30（最終受付19：15）",
+        "fee": "1,100円（税込）",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/xqX7V6K5PtqfbxPf6?g_st=com.google.maps.preview.copy",
+        "url": "https://www.matsuyama-airport.co.jp/service/service/skylounge.html",
+        "review": ""
+    },
+    {
+        "id": "35",
+        "name": "ブルースカイラウンジ",
+        "airport": "高知空港",
+        "location": "高知県",
+        "terminal": "国内線ターミナル",
+        "hours": "6:15～19:40",
+        "fee": "12歳以上：1,100円",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/bP9PNsvmVFarUYPA7?g_st=com.google.maps.preview.copy",
+        "url": "https://www.kochiap.co.jp/shop/lounge/",
+        "review": ""
+    },
+    {
+        "id": "36",
+        "name": "ラウンジTIME ノース",
+        "airport": "福岡空港",
+        "location": "福岡県",
+        "terminal": "国内線ターミナル",
+        "hours": "06:00～20:30　年中無休",
+        "fee": "",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/CKfarHLM2TQw6TbQ8?g_st=com.google.maps.preview.copy",
+        "url": "https://www.fukuoka-airport.jp/service/card-lounge01.html",
+        "review": ""
+    },
+    {
+        "id": "37",
+        "name": "ラウンジTIME サウス",
+        "airport": "福岡空港",
+        "location": "福岡県",
+        "terminal": "国内線ターミナル",
+        "hours": "06:00～21:00　年中無休",
+        "fee": "",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/4BsYDNmczcYR7p9g9?g_st=com.google.maps.preview.copy",
+        "url": "https://www.fukuoka-airport.jp/service/card-lounge01-s.html",
+        "review": ""
+    },
+    {
+        "id": "38",
+        "name": "ラウンジTIME インターナショナル",
+        "airport": "福岡空港",
+        "location": "福岡県",
+        "terminal": "国際線ターミナル",
+        "hours": "7:00～21:00　年中無休",
+        "fee": "",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/8geQqMPZmJojjci98?g_st=com.google.maps.preview.copy",
+        "url": "https://www.fukuoka-airport.jp/service/card-lounge02.html",
+        "review": ""
+    },
+    {
+        "id": "39",
+        "name": "ラウンジひまわり",
+        "airport": "北九州空港",
+        "location": "福岡県",
+        "terminal": "国内線ターミナル",
+        "hours": "07：00～21：00",
+        "fee": "お一人様　・・・880円（税込）",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/gdhVdz45kX8qSYHP6?g_st=com.google.maps.preview.copy",
+        "url": "https://www.kitakyu-air.jp/rev-airport-guide/rev-lounge.html",
+        "review": ""
+    },
+    {
+        "id": "40",
+        "name": "Premium Loungeさがのがら。",
+        "airport": "佐賀空港",
+        "location": "佐賀県",
+        "terminal": "国内線ターミナル",
+        "hours": "8：30 ～ 佐賀空港国内線最終出発便搭乗案内まで（年中無休）",
+        "fee": "大人 1,100円 / 小人 550円 / 3歳未満 無料",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/5cB1PYTEXjaETWyk7?g_st=com.google.maps.preview.copy",
+        "url": "https://saga-ab.jp/furniture_service/lounge/",
+        "review": ""
+    },
+    {
+        "id": "41",
+        "name": "ビジネスラウンジアザレア",
+        "airport": "長崎空港",
+        "location": "長崎県",
+        "terminal": "国内線ターミナル",
+        "hours": "6：45～20：40",
+        "fee": "1,100円",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/fNFDb6ZUyCeJq6Cg6?g_st=com.google.maps.preview.copy",
+        "url": "https://nagasaki-airport.jp/facility/azarea.php",
+        "review": ""
+    },
+    {
+        "id": "42",
+        "name": "ラウンジくにさき",
+        "airport": "大分空港",
+        "location": "大分県",
+        "terminal": "国内線ターミナル",
+        "hours": "6時40分〜最終便出発の15分前",
+        "fee": "1,100円",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/mtx9iaNZ4WVhwaHF8?g_st=com.google.maps.preview.copy",
+        "url": "https://www.oita-airport.jp/guide/loungekunisaki.html",
+        "review": ""
+    },
+    {
+        "id": "43",
+        "name": "ASO",
+        "airport": "熊本空港",
+        "location": "熊本県",
+        "terminal": "国内線ターミナル",
+        "hours": "6:30〜最終便出発まで",
+        "fee": "ラウンジ係員へお尋ねください",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/8uihZvWbKYLUpd1k7?g_st=com.google.maps.preview.copy",
+        "url": "https://www.kumamoto-airport.co.jp/facilities/lounge/",
+        "review": ""
+    },
+    {
+        "id": "44",
+        "name": "ブーゲンラウンジひなた",
+        "airport": "宮崎空港",
+        "location": "宮崎県",
+        "terminal": "第1ターミナル",
+        "hours": "07:00 - 20:00",
+        "fee": "大人 (13歳以上)¥1,100 (税込)、小人 (4歳以上13歳未満)¥550 (税込)",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/9gVZtnaNAgDtijLY9?g_st=com.google.maps.preview.copy",
+        "url": "https://www.miyazaki-airport.co.jp/shisetsu/cardlounge",
+        "review": ""
+    },
+    {
+        "id": "45",
+        "name": "スカイラウンジ菜の花",
+        "airport": "鹿児島空港",
+        "location": "鹿児島県",
+        "terminal": "国内線ターミナル",
+        "hours": "7:00〜20:00（年中無休）※利用時間制限なし",
+        "fee": "大人：1,100円（税込）小人（3歳以上12歳未満）：550円（税込）",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/dDfBuUFNu8eepXsv5?g_st=com.google.maps.preview.copy",
+        "url": "https://www.koj-ab.co.jp/service/skylounge-nanohana.html",
+        "review": ""
+    },
+    {
+        "id": "46",
+        "name": "ラウンジ華〜hana〜",
+        "airport": "那覇空港",
+        "location": "沖縄県",
+        "terminal": "国内線ターミナル",
+        "hours": "8:00〜20:00",
+        "fee": "大人1,320円（税込）",
+        "services": [
+            "ソフトドリンク",
+            "有料アルコール",
+            "Wi-Fi"
+        ],
+        "map": "https://maps.app.goo.gl/zWQrA8vgFnkh9Vfk9",
+        "url": "https://www.naha-airport.co.jp/service/pay_area/lounge_hana/",
+        "review": ""
+    }
+]
