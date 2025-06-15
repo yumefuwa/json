@@ -20,8 +20,9 @@
     "fee" : "1,500円",
     "services" : ["ソフトドリンク", "有料アルコール", "Wi-Fi"],
     "map" : "https://maps.app.goo.gl/nEyLo55u2UfdcoB9A",
-    "url" : "https://www.hokkaido-airports.com/ja/new-chitose/service/waitingroom-lounge/dmstc-lounge/"
-,     "review" : },{
+    "url" : "https://www.hokkaido-airports.com/ja/new-chitose/service/waitingroom-lounge/dmstc-lounge/",
+    "review" : 
+},{
     "id" : "03",
     "name" : "ノースラウンジ",
     "airport" : "新千歳空港",
