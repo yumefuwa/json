@@ -151,7 +151,7 @@
     },
     {
         "id": "10",
-        "name": "POWER LOUNGE SOUTH",
+        "name": "POWER LOUNGE SOUTH(T1)",
         "airport": "羽田空港",
         "location": "東京都",
         "terminal": "第1ターミナル",
@@ -167,7 +167,7 @@
     },
     {
         "id": "11",
-        "name": "POWER LOUNGE NORTH",
+        "name": "POWER LOUNGE NORTH(T1)",
         "airport": "羽田空港",
         "location": "東京都",
         "terminal": "第1ターミナル",
@@ -183,7 +183,7 @@
     },
     {
         "id": "12",
-        "name": "POWER LOUNGE CENTRAL",
+        "name": "POWER LOUNGE CENTRAL(T1)",
         "airport": "羽田空港",
         "location": "東京都",
         "terminal": "第1ターミナル",
@@ -199,7 +199,7 @@
     },
     {
         "id": "13",
-        "name": "POWER LOUNGE NORTH",
+        "name": "POWER LOUNGE NORTH(T2)",
         "airport": "羽田空港",
         "location": "東京都",
         "terminal": "第2ターミナル",
@@ -215,7 +215,7 @@
     },
     {
         "id": "14",
-        "name": "エアポートラウンジ(南)",
+        "name": "エアポートラウンジ(南)(T2)",
         "airport": "羽田空港",
         "location": "東京都",
         "terminal": "第2ターミナル",
@@ -231,7 +231,7 @@
     },
     {
         "id": "15",
-        "name": "POWER LOUNGE CENTRAL",
+        "name": "POWER LOUNGE CENTRAL(T2)",
         "airport": "羽田空港",
         "location": "東京都",
         "terminal": "第2ターミナル",
@@ -247,7 +247,7 @@
     },
     {
         "id": "16",
-        "name": "SKY LOUNGE",
+        "name": "SKY LOUNGE(T3)",
         "airport": "羽田空港",
         "location": "東京都",
         "terminal": "第3ターミナル",
